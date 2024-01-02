@@ -14,7 +14,13 @@ columns: Ind_ID,Gender,car_Owner,Propert_Owner,Children,Annual_income,Type_Incom
 The main aim of this project is to demonstrate the basics of Data Analysis and Machine Learning.
 We will follow the steps mentioned below:
 
-1.Data Loading 2.Exploratory Data Analysis 3.Data Preprocessing Cleaning Blank 4.Data Preparation --Train Test Split 5.Training and Evaluation --Model Selection --Model Evaluation
+1.Data Loading 
+2.Exploratory Data Analysis 
+3.Data Preprocessing Cleaning Blank 4
+.Data Preparation --Train Test Split 
+5.Training and Evaluation 
+--Model Selection 
+--Model Evaluation
 
 I am used model was Random Forest
 RMSE of the Random Forest Regressor: 104579.3492066565
